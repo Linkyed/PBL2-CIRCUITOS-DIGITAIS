@@ -1,0 +1,197 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'B0'
+Slack : -7.313
+TNS   : -159.833
+
+Type  : Setup 'debouncer:debouncer0|d_ff:d0|q'
+Slack : -2.478
+TNS   : -6.105
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d12|q'
+Slack : -1.705
+TNS   : -5.665
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d2|q'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d9|q'
+Slack : 0.457
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d0|q'
+Slack : 0.466
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d4|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d6|q'
+Slack : 0.467
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d11|q'
+Slack : 0.687
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d5|q'
+Slack : 0.801
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d8|q'
+Slack : 0.816
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d1|q'
+Slack : 1.228
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d10|q'
+Slack : 1.545
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d3|q'
+Slack : 1.642
+TNS   : 0.000
+
+Type  : Setup 'divisor_clk:divisor_clk|d_ff:d7|q'
+Slack : 1.839
+TNS   : 0.000
+
+Type  : Setup 'clk'
+Slack : 2.924
+TNS   : 0.000
+
+Type  : Hold 'clk'
+Slack : -2.978
+TNS   : -2.978
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d12|q'
+Slack : -2.351
+TNS   : -2.351
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d7|q'
+Slack : -1.893
+TNS   : -1.893
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d3|q'
+Slack : -1.696
+TNS   : -1.696
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d10|q'
+Slack : -1.599
+TNS   : -1.599
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d1|q'
+Slack : -1.282
+TNS   : -1.282
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d8|q'
+Slack : -0.870
+TNS   : -0.870
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d5|q'
+Slack : -0.855
+TNS   : -0.855
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d11|q'
+Slack : -0.741
+TNS   : -0.741
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d4|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d6|q'
+Slack : -0.521
+TNS   : -0.521
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d0|q'
+Slack : -0.520
+TNS   : -0.520
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d9|q'
+Slack : -0.511
+TNS   : -0.511
+
+Type  : Hold 'divisor_clk:divisor_clk|d_ff:d2|q'
+Slack : -0.257
+TNS   : -0.257
+
+Type  : Hold 'B0'
+Slack : 1.292
+TNS   : 0.000
+
+Type  : Hold 'debouncer:debouncer0|d_ff:d0|q'
+Slack : 1.956
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'B0'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'clk'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'debouncer:debouncer0|d_ff:d0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d0|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d10|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d11|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d12|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d1|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d2|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d3|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d4|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d5|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d6|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d7|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d8|q'
+Slack : 0.234
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'divisor_clk:divisor_clk|d_ff:d9|q'
+Slack : 0.234
+TNS   : 0.000
+
+------------------------------------------------------------
